@@ -73,4 +73,4 @@ Orders are made by sending a POST request with the order data (user data + selec
 
 # Live Preview
 
-You can preview the live application [here](the-fast-react-pizza-co.netlify.app)
+You can preview the live application [here](https://the-fast-react-pizza-co.netlify.app/)

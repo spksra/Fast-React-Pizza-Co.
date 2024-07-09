@@ -48,6 +48,29 @@ Orders are made by sending a POST request with the order data (user data + selec
 3. Persist Remote State Management: [React Router](https://reactrouter.com/en/main/start/overview)
 4. UI State Management: [Redux Toolkit](https://redux-toolkit.js.org/)
 
+## 🛠️ Installation Steps:
+
+---
+
+1. Clone the repository</p>
+   git clone https://github.com/spksra/The_Ivory_Bliss.git
+
+---
+
+---
+
+2. Install the required dependencies</p>
+   npm install
+
+---
+
+---
+
+3. Start the development server</p>
+   npm run dev
+
+---
+
 # Live Preview
 
 You can preview the live application [here](the-fast-react-pizza-co.netlify.app)
